@@ -1,0 +1,9 @@
+"D:\Apps\JetBrains\CLion 2023.1.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Apps/JetBrains/CLion 2023.1.3/bin/ninja/win/x64/ninja.exe" -G Ninja -S D:\Repo\UATD\Preprocess -B D:\Repo\UATD\Preprocess\cmake-build-debug
+-- OpenCV ARCH: x64
+-- OpenCV RUNTIME: mingw
+-- OpenCV STATIC: OFF
+-- Found OpenCV 4.7.0 in D:/Tools/opencv/mingw-build/install/x64/mingw/lib
+-- You might need to add D:\Tools\opencv\mingw-build\install\x64\mingw\bin to your PATH to be able to run your applications.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Repo/UATD/Preprocess/cmake-build-debug

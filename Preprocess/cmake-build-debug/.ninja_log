@@ -1,0 +1,12 @@
+# ninja log v5
+4	2335	7097305002048692	CMakeFiles/Preprocess.dir/ApplyGaussian.cpp.obj	2707cebd354c7b8d
+3	2134	7097136353970218	CMakeFiles/Preprocess.dir/main.cpp.obj	6692d6619bee26b5
+3	2091	7083627361061855	CMakeFiles/Preprocess.dir/CollectAttenuationData.cpp.obj	1d53cf74feaed5be
+2242	2418	7105194113504281	Preprocess.exe	76c7e42f6f489291
+4	2056	7095248341829874	CMakeFiles/Preprocess.dir/ApplyThorp.cpp.obj	344f0b1121f4e5ea
+6	209	7105194146916165	build.ninja	57e1589e64d95300
+4	1986	7083494502490749	CMakeFiles/Preprocess.dir/ToGrayscale.cpp.obj	935b9b96ee6a643e
+2	482	7084192174546169	CMakeFiles/Preprocess.dir/RemoveOutliers.cpp.obj	1da8b6dede0e00dc
+1	2188	7096636096427942	CMakeFiles/Preprocess.dir/TargetAreaMean.cpp.obj	7492ed9b930750e2
+3	1977	7097139265288096	CMakeFiles/Preprocess.dir/FusingImages.cpp.obj	30fc12e0ea6ace85
+1	2241	7105194111744989	CMakeFiles/Preprocess.dir/FusingImagesDisplay.cpp.obj	c5c837537cf6b568
